@@ -1,0 +1,7 @@
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-voyageai
+llama-index-llms-google-genai
+chromadb
+voyageai
+google-genai

@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.env
+
+# Vector DB (large, regenerable)
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
