@@ -73,7 +73,7 @@ To make them permanent, add the same lines to `~/.zshrc` and run
 ### 4. Add your documents
 
 Drop `.txt`, `.pdf`, or `.md` files into `./data/`. A sample file is
-included so you can run the project immediately.
+included so you can run the project immediately. Feel free to replace the sample file with your own document.
 
 ### 5. Run
 
